@@ -1,3 +1,1 @@
-Kenobi: Hello there
-Greivouce: General kenobi
-Kenobi: You are a bold one
+A bunch of ideas I want to try
